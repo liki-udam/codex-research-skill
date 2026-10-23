@@ -1,0 +1,6 @@
+interface:
+  display_name: "Research"
+  short_description: "Comprehensive research with plan approval"
+
+policy:
+  allow_implicit_invocation: false
